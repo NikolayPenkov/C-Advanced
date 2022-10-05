@@ -1,0 +1,16 @@
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\bin\Debug\net5.0\Simple Calculator.exe
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\bin\Debug\net5.0\Simple Calculator.deps.json
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.json
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\bin\Debug\net5.0\Simple Calculator.dll
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\bin\Debug\net5.0\Simple Calculator.pdb
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\Simple Calculator.dll
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\refint\Simple Calculator.dll
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\Simple Calculator.pdb
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\Simple Calculator.genruntimeconfig.cache
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Simple Calculator\obj\Debug\net5.0\ref\Simple Calculator.dll

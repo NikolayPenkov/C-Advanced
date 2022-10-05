@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\bin\Debug\netcoreapp3.1\Add VAT.exe
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\bin\Debug\netcoreapp3.1\Add VAT.deps.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\bin\Debug\netcoreapp3.1\Add VAT.runtimeconfig.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\bin\Debug\netcoreapp3.1\Add VAT.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\bin\Debug\netcoreapp3.1\Add VAT.dll
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\bin\Debug\netcoreapp3.1\Add VAT.pdb
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\obj\Debug\netcoreapp3.1\Add VAT.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\obj\Debug\netcoreapp3.1\Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\obj\Debug\netcoreapp3.1\Add VAT.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\obj\Debug\netcoreapp3.1\Add VAT.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\obj\Debug\netcoreapp3.1\Add VAT.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\obj\Debug\netcoreapp3.1\Add VAT.dll
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\obj\Debug\netcoreapp3.1\Add VAT.pdb
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Add VAT\obj\Debug\netcoreapp3.1\Add VAT.genruntimeconfig.cache

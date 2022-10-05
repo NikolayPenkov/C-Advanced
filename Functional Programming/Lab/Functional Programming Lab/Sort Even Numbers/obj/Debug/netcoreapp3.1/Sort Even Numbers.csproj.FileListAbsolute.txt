@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.exe
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.deps.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.dll
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.dll
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.genruntimeconfig.cache

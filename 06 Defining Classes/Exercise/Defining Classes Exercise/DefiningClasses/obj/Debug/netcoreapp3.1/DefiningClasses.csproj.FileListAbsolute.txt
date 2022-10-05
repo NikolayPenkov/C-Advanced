@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+F:\Програмиране\C# Advanced\06 Defining Classes\Exercise\Defining Classes Exercise\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.exe
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.deps.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.runtimeconfig.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.dll
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\bin\Debug\netcoreapp3.1\Periodic Table.pdb
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.dll
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.pdb
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Periodic Table\obj\Debug\netcoreapp3.1\Periodic Table.genruntimeconfig.cache

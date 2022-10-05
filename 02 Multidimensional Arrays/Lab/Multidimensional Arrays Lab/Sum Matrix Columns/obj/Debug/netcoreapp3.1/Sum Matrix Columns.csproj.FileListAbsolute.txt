@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.exe
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.deps.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.genruntimeconfig.cache

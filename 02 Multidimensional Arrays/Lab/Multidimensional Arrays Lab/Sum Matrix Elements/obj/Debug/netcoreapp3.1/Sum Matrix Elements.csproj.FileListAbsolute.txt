@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.exe
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.deps.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.runtimeconfig.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.exe
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.deps.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.runtimeconfig.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.dll
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.pdb
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.dll
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.pdb
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.genruntimeconfig.cache

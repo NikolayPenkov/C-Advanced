@@ -1,0 +1,16 @@
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\bin\Debug\net5.0\Reverse a stack.exe
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\bin\Debug\net5.0\Reverse a stack.deps.json
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\bin\Debug\net5.0\Reverse a stack.runtimeconfig.json
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\bin\Debug\net5.0\Reverse a stack.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\bin\Debug\net5.0\Reverse a stack.dll
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\bin\Debug\net5.0\Reverse a stack.pdb
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\Reverse a stack.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\Reverse a stack.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\Reverse a stack.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\Reverse a stack.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\Reverse a stack.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\Reverse a stack.dll
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\refint\Reverse a stack.dll
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\Reverse a stack.pdb
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\Reverse a stack.genruntimeconfig.cache
+F:\Програмиране\C# Advanced\01 Stack and Queues\Lab\Stacks and Queues lab\Reverse a stack\obj\Debug\net5.0\ref\Reverse a stack.dll

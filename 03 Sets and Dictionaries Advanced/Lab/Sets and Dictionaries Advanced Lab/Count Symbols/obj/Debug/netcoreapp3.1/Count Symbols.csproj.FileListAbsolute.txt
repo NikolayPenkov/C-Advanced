@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.exe
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.deps.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.runtimeconfig.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.dll
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\bin\Debug\netcoreapp3.1\Count Symbols.pdb
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.dll
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.pdb
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Count Symbols\obj\Debug\netcoreapp3.1\Count Symbols.genruntimeconfig.cache

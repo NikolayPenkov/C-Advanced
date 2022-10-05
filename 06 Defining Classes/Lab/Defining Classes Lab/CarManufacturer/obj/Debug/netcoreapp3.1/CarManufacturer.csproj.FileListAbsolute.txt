@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+F:\Програмиране\C# Advanced\06 Defining Classes\Lab\Defining Classes Lab\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache

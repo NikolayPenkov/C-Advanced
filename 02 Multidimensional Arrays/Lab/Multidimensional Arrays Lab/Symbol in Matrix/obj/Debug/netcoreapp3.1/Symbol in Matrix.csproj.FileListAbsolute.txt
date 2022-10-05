@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.exe
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.deps.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.genruntimeconfig.cache

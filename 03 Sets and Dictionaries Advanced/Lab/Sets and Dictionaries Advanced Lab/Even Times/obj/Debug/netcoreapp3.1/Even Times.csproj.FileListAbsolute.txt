@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\bin\Debug\netcoreapp3.1\Even Times.exe
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\bin\Debug\netcoreapp3.1\Even Times.deps.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\bin\Debug\netcoreapp3.1\Even Times.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\bin\Debug\netcoreapp3.1\Even Times.dll
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\bin\Debug\netcoreapp3.1\Even Times.pdb
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\obj\Debug\netcoreapp3.1\Even Times.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\obj\Debug\netcoreapp3.1\Even Times.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\obj\Debug\netcoreapp3.1\Even Times.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\obj\Debug\netcoreapp3.1\Even Times.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\obj\Debug\netcoreapp3.1\Even Times.dll
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\obj\Debug\netcoreapp3.1\Even Times.pdb
+F:\Програмиране\C# Advanced\03 Sets and Dictionaries Advanced\Lab\Sets and Dictionaries Advanced Lab\Even Times\obj\Debug\netcoreapp3.1\Even Times.genruntimeconfig.cache

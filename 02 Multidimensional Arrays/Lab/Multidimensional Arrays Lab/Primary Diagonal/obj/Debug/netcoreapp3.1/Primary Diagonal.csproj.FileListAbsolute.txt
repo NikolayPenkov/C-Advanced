@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.exe
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.deps.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.runtimeconfig.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\bin\Debug\netcoreapp3.1\Primary Diagonal.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Primary Diagonal\obj\Debug\netcoreapp3.1\Primary Diagonal.genruntimeconfig.cache

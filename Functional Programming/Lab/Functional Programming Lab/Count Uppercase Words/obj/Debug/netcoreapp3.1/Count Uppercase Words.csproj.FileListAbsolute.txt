@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\bin\Debug\netcoreapp3.1\Count Uppercase Words.exe
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\bin\Debug\netcoreapp3.1\Count Uppercase Words.deps.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\bin\Debug\netcoreapp3.1\Count Uppercase Words.runtimeconfig.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\bin\Debug\netcoreapp3.1\Count Uppercase Words.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\bin\Debug\netcoreapp3.1\Count Uppercase Words.dll
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\bin\Debug\netcoreapp3.1\Count Uppercase Words.pdb
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\obj\Debug\netcoreapp3.1\Count Uppercase Words.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\obj\Debug\netcoreapp3.1\Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\obj\Debug\netcoreapp3.1\Count Uppercase Words.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\obj\Debug\netcoreapp3.1\Count Uppercase Words.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\obj\Debug\netcoreapp3.1\Count Uppercase Words.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\obj\Debug\netcoreapp3.1\Count Uppercase Words.dll
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\obj\Debug\netcoreapp3.1\Count Uppercase Words.pdb
+F:\Програмиране\C# Advanced\Functional Programming\Lab\Functional Programming Lab\Count Uppercase Words\obj\Debug\netcoreapp3.1\Count Uppercase Words.genruntimeconfig.cache

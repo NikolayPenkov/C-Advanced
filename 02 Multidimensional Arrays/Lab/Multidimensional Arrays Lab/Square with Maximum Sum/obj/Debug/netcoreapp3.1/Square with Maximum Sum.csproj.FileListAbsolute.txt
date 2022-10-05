@@ -1,0 +1,14 @@
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\bin\Debug\netcoreapp3.1\Square with Maximum Sum.exe
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\bin\Debug\netcoreapp3.1\Square with Maximum Sum.deps.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\bin\Debug\netcoreapp3.1\Square with Maximum Sum.runtimeconfig.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\bin\Debug\netcoreapp3.1\Square with Maximum Sum.runtimeconfig.dev.json
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\bin\Debug\netcoreapp3.1\Square with Maximum Sum.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\bin\Debug\netcoreapp3.1\Square with Maximum Sum.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\obj\Debug\netcoreapp3.1\Square with Maximum Sum.csproj.AssemblyReference.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\obj\Debug\netcoreapp3.1\Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\obj\Debug\netcoreapp3.1\Square with Maximum Sum.AssemblyInfoInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\obj\Debug\netcoreapp3.1\Square with Maximum Sum.AssemblyInfo.cs
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\obj\Debug\netcoreapp3.1\Square with Maximum Sum.csproj.CoreCompileInputs.cache
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\obj\Debug\netcoreapp3.1\Square with Maximum Sum.dll
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\obj\Debug\netcoreapp3.1\Square with Maximum Sum.pdb
+F:\Програмиране\C# Advanced\02 Multidimensional Arrays\Lab\Multidimensional Arrays Lab\Square with Maximum Sum\obj\Debug\netcoreapp3.1\Square with Maximum Sum.genruntimeconfig.cache
