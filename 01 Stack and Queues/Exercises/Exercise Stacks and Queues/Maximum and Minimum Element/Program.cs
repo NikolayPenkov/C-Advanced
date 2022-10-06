@@ -56,6 +56,7 @@ namespace Maximum_and_Minimum_Element
                 if (stack.Count == 1)
                 {
                     Console.Write(String.Join(" ", stack.ToArray()));
+                    break;
                 }
                 else
                 {
